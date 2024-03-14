@@ -24,7 +24,7 @@ These are the two baseline datasets that we used originally which consisted of 0
 
 Below is a visualization of how we have split out data and how the generated data has been added.
 
-
+![screenshot](Data_splits.png)
 
 # Code files:
 
