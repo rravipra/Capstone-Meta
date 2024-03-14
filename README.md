@@ -1,6 +1,6 @@
 # Toxic Data Generation using Large Language Models for Sparse Label Problems
 
-MSDS Capstone Project in collaboration with Meta affiliated with the University of Washington.//
+MSDS Capstone Project in collaboration with Meta affiliated with the University of Washington./n
 (Team Members: Ananya Bajaj, Hema Varshita, Rashmika Reddy, Rthvik Raviprakash, Sayani Boral)
 
 # Objective:
