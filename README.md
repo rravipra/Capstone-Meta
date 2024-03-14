@@ -4,6 +4,8 @@ MSDS Capstone Project in collaboration with Meta affiliated with the University 
 
 (Team Members: Ananya Bajaj, Hema Varshita, Rashmika Reddy, Rthvik Raviprakash, Sayani Boral)
 
+(NOTE: Please refer to Project_Report.pdf in this repository for the results and the detailed methodology for this project.)
+
 # Objective:
 
 Facebook Integrity uses ML models to help identify and remove content that violates its community standards, such as hate speech, graphic violence, and sexual exploitation. These models are trained on large datasets of examples of bad content and are able to recognize patterns and features that are associated with such content. This spans a variety of policies, including spam messages, fake accounts, and fraudulent activity.
