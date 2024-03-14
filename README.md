@@ -24,6 +24,10 @@ The notebook files are split in this repository are split into two folders:
    - falcon_7B.ipynb
 2) Classification:
    - T5_model.zip
+   - BERT_.25%.ipynb
+   - BERT_1%.ipynb
+   - BERT_3%.ipynb
+   - BERT_5%.ipynb
    - NN_model.ipynb
    - Logistic_regression_model.ipynb
 
