@@ -58,3 +58,7 @@ Below is the architecture of the entire process of this project:
 (https://huggingface.co/docs/transformers/en/model_doc/t5)
 
 (https://github.com/Troyanovsky/Local-LLM-Comparison-Colab-UI)
+
+# Acknowledgements:
+
+We would like to extend our gratitude to our sponsors from Meta - Aaron Wang, Data Scientist & Dr. Megan Hazen for their invaluable support and guidance throughout the project.
