@@ -51,3 +51,4 @@ Below is the architecture of the entire process of this project:
 
 # References:
 
+(https://huggingface.co/TheBloke/WizardLM-Uncensored-Falcon-7B-GPTQ)
