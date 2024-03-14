@@ -52,3 +52,9 @@ Below is the architecture of the entire process of this project:
 # References:
 
 (https://huggingface.co/TheBloke/WizardLM-Uncensored-Falcon-7B-GPTQ)
+
+(https://huggingface.co/tftransformers/bert-base-uncased)
+
+(https://huggingface.co/docs/transformers/en/model_doc/t5)
+
+(https://github.com/Troyanovsky/Local-LLM-Comparison-Colab-UI)
