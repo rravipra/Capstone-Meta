@@ -4,7 +4,7 @@ MSDS Capstone Project in collaboration with Meta affiliated with the University 
 
 (Team Members: Ananya Bajaj, Hema Varshita, Rashmika Reddy, Rthvik Raviprakash, Sayani Boral)
 
-(NOTE: Please refer to Project_Report.pdf in this repository for the results and the detailed methodology for this project.)
+(NOTE: Please refer to Project_Report.pdf in this repository for the results and the methodology)
 
 # Objective:
 
