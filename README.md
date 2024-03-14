@@ -1,5 +1,6 @@
 # Capstone-Meta
-MSDS Capstone Project in collaboration with Meta affiliated with the University of Washington. (Team Members: Ananya Bajaj, Hema Varshita, Rashmika Reddy, Rthvik Raviprakash, Sayani Boral)
+MSDS Capstone Project in collaboration with Meta affiliated with the University of Washington. 
+(Team Members: Ananya Bajaj, Hema Varshita, Rashmika Reddy, Rthvik Raviprakash, Sayani Boral)
 
 # Objective:
 
@@ -17,13 +18,13 @@ General Reddit dataset: [Dataset](https://www.kaggle.com/datasets/smagnan/1-mill
 
 # Code files:
 
-The notebooks file in this repository are:
+The notebook files are split in this repository are split into two folders:
 
-- falcon_7B.ipynb
-- T5_model.zip
-- NN_model.ipynb
-- Logistic_regression_model.ipynb
+1) Generation:
+   - falcon_7B.ipynb
+2) Classification:
+   - T5_model.zip
+   - NN_model.ipynb
+   - Logistic_regression_model.ipynb
 
-# Images of graphs acquired from the code outputs:
-
-# Considerations with the Data:
+The Generation folder consists of the code to generate data using the Falcon-7B uncensored model and the classification folder consists of the code of BERT, T5, Neural Network and Logistic Regression models for classification.
