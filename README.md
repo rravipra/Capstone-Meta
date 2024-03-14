@@ -47,7 +47,7 @@ The Generation folder consists of the code to generate data using the Falcon-7B 
 
 Below is the architecture of the entire process of this project:
 
-![screenshot1](System_architecture.png)
+!(System_architecture.png)
 
 # References:
 
