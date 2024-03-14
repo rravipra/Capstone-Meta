@@ -1,6 +1,7 @@
 # Toxic Data Generation using Large Language Models for Sparse Label Problems
 
-MSDS Capstone Project in collaboration with Meta affiliated with the University of Washington./n
+MSDS Capstone Project in collaboration with Meta affiliated with the University of Washington, Seattle.
+
 (Team Members: Ananya Bajaj, Hema Varshita, Rashmika Reddy, Rthvik Raviprakash, Sayani Boral)
 
 # Objective:
@@ -13,9 +14,17 @@ Therefore, one of the biggest challenges within Integrity is finding high enough
 
 # Data:
 
-Social Media Hateful & Toxic Comments: [Dataset](https://socialmediaarchive.org/record/19?ln=en)
+1) Social Media Hateful & Toxic Comments: [Dataset](https://socialmediaarchive.org/record/19?ln=en)
 
-General Reddit dataset: [Dataset](https://www.kaggle.com/datasets/smagnan/1-million-reddit-comments-from-40-subreddits)
+2) General Reddit dataset: [Dataset](https://www.kaggle.com/datasets/smagnan/1-million-reddit-comments-from-40-subreddits)
+
+These are the two baseline datasets that we used originally which consisted of 0.25% sparsity without any generated data added to the training set. The combined_data file that you see in the data folder consists of data combined from 1 and 2. The General Reddit dataset consists of the non-toxic lables and the social media Hateful & Toxic Comments dataset consists of the toxic labels.
+
+3) The generated data are named as train, test, val and underscored by the dataset used for that particular sparsity percentage which can also be found in the data folder. (NOTE: The test and validation sets for each sparsity level is the same and consists of data from the original combined_dataset while the training datasets consists of the generated data (except train_0.25%))
+
+Below is a visualization of how we have split out data and how the generated data has been added.
+
+
 
 # Code files:
 
