@@ -42,3 +42,9 @@ The notebook files are split in this repository are split into two folders:
    - Logistic_regression_model.ipynb
 
 The Generation folder consists of the code to generate data using the Falcon-7B uncensored model and the classification folder consists of the code of BERT, T5, Neural Network and Logistic Regression models for classification.
+
+# System Architecture:
+
+Below is the architecture of the entire process of this project:
+
+
